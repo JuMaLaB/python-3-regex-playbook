@@ -1,0 +1,3 @@
+Product list 1:
+Product 1: AB12-CD34
+Product 2: 123-456

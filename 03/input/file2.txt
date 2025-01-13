@@ -1,0 +1,3 @@
+Product list 2:
+Product 1: EF56-GH78
+Product 2: 789-012

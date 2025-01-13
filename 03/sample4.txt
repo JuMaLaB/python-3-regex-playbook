@@ -1,0 +1,7 @@
+Product list:
+Product 1: AB12-CD34
+Product 2: 123-456
+Product 3: EF56-GH78
+Product 4: 789-012
+Product 5: IJ90-KL12
+Product 6: 345-678
