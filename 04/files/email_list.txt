@@ -1,0 +1,7 @@
+olivia.martin@example.com
+liam_smith@email.org
+invalid.email@site
+sophie@subdomain.domain.co.uk
+missing-at-sign.com
+random@email
+lucas@Example123

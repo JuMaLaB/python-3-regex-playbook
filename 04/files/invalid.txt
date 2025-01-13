@@ -1,0 +1,4 @@
+invalid.email@site
+missing-at-sign.com
+random@email
+lucas@Example123
