@@ -10,14 +10,17 @@ Character classes
 [abc]	any of a, b, or c
 [^abc]	not a, b, or c
 [a-g]	character between a & g
+
 Anchors
 =======
 ^abc$	start / end of the string
 \b\B	word, not-word boundary
+
 Escaped characters
 ==================
 \.\*\\	escaped special characters
 \t\n\r	tab, linefeed, carriage return
+
 Groups & Lookaround
 ===================
 (abc)	capture group
@@ -25,6 +28,7 @@ Groups & Lookaround
 (?:abc)	non-capturing group
 (?=abc)	positive lookahead
 (?!abc)	negative lookahead
+
 Quantifiers & Alternation
 ==================
 a*a+a?	0 or more, 1 or more, 0 or 1
